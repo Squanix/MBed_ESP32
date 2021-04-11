@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/media/squanixmachine/SqxOntheGo/RegularPurpose/EspProjects/AES_Encryptor_Decryptor_ESP32/build/CMakeFiles/bootloader
+/media/squanixmachine/SqxOntheGo/RegularPurpose/EspProjects/AES_Encryptor_Decryptor_ESP32/build/CMakeFiles/bootloader.rule
+/media/squanixmachine/SqxOntheGo/RegularPurpose/EspProjects/AES_Encryptor_Decryptor_ESP32/build/CMakeFiles/bootloader-complete.rule
+/media/squanixmachine/SqxOntheGo/RegularPurpose/EspProjects/AES_Encryptor_Decryptor_ESP32/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/media/squanixmachine/SqxOntheGo/RegularPurpose/EspProjects/AES_Encryptor_Decryptor_ESP32/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/media/squanixmachine/SqxOntheGo/RegularPurpose/EspProjects/AES_Encryptor_Decryptor_ESP32/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/media/squanixmachine/SqxOntheGo/RegularPurpose/EspProjects/AES_Encryptor_Decryptor_ESP32/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+/media/squanixmachine/SqxOntheGo/RegularPurpose/EspProjects/AES_Encryptor_Decryptor_ESP32/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/media/squanixmachine/SqxOntheGo/RegularPurpose/EspProjects/AES_Encryptor_Decryptor_ESP32/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/media/squanixmachine/SqxOntheGo/RegularPurpose/EspProjects/AES_Encryptor_Decryptor_ESP32/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
