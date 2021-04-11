@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/media/squanixmachine/SqxOntheGo/RegularPurpose/EspProjects/AES_Encryptor_Decryptor_ESP32/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "/media/squanixmachine/SqxOntheGo/RegularPurpose/EspProjects/AES_Encryptor_Decryptor_ESP32/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "/media/squanixmachine/SqxOntheGo/RegularPurpose/EspProjects/AES_Encryptor_Decryptor_ESP32/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "/media/squanixmachine/SqxOntheGo/RegularPurpose/EspProjects/AES_Encryptor_Decryptor_ESP32/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "/media/squanixmachine/SqxOntheGo/RegularPurpose/EspProjects/AES_Encryptor_Decryptor_ESP32/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "/media/squanixmachine/SqxOntheGo/RegularPurpose/EspProjects/AES_Encryptor_Decryptor_ESP32/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "/media/squanixmachine/SqxOntheGo/RegularPurpose/EspProjects/AES_Encryptor_Decryptor_ESP32/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		},
+		{
+			"file" : "/media/squanixmachine/SqxOntheGo/RegularPurpose/EspProjects/AES_Encryptor_Decryptor_ESP32/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "/media/squanixmachine/SqxOntheGo/RegularPurpose/EspProjects/AES_Encryptor_Decryptor_ESP32/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "/media/squanixmachine/SqxOntheGo/RegularPurpose/EspProjects/AES_Encryptor_Decryptor_ESP32/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}
