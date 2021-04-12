@@ -1,4 +1,4 @@
-# Install script for directory: /media/squanixmachine/SqxOntheGo/RegularPurpose/EspProjects/AES_Encryptor_Decryptor_ESP32/main
+# Install script for directory: /media/squanixmachine/SqxOntheGo/RegularPurpose/MBed_ESP32/AES_Encryptor_Decryptor_ESP32/main
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

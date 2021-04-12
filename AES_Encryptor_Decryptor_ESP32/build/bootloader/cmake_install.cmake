@@ -34,7 +34,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/media/squanixmachine/SqxOntheGo/RegularPurpose/EspProjects/AES_Encryptor_Decryptor_ESP32/build/bootloader/esp-idf/cmake_install.cmake")
+  include("/media/squanixmachine/SqxOntheGo/RegularPurpose/MBed_ESP32/AES_Encryptor_Decryptor_ESP32/build/bootloader/esp-idf/cmake_install.cmake")
 
 endif()
 
@@ -46,5 +46,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/media/squanixmachine/SqxOntheGo/RegularPurpose/EspProjects/AES_Encryptor_Decryptor_ESP32/build/bootloader/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/media/squanixmachine/SqxOntheGo/RegularPurpose/MBed_ESP32/AES_Encryptor_Decryptor_ESP32/build/bootloader/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

@@ -1,4 +1,4 @@
-/* * Data converted from /media/squanixmachine/SqxOntheGo/RegularPurpose/EspProjects/AES_Encryptor_Decryptor_ESP32/build/esp-idf/mbedtls/x509_crt_bundle
+/* * Data converted from /media/squanixmachine/SqxOntheGo/RegularPurpose/MBed_ESP32/AES_Encryptor_Decryptor_ESP32/build/esp-idf/mbedtls/x509_crt_bundle
  */
 .data
 .section .rodata.embedded
