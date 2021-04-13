@@ -1,0 +1,30 @@
+# put here your custom config value
+menu "WiFi Configuration"
+config ESP_WIFI_SSID
+    string "WiFi SSID"
+    default "myssid"
+    help
+	SSID (network name) for the example to connect to.
+
+config ESP_WIFI_PASSWORD
+    string "WiFi Password"
+    default "mypassword"
+    help
+	WiFi password (WPA or WPA2) for the example to use.
+endmenu
+
+menu "Port Example"
+config LOG_COLORS
+	string "Port Used"
+	default 1
+	help
+	Set your Port
+endmenu
+
+menu "Pirt Example"
+config MUAL_MUAL
+	string "Port Used"
+	default "thisone"
+	help
+	Set your Port
+endmenu

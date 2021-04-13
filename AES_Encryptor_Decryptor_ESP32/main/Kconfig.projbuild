@@ -1,0 +1,7 @@
+menu "AES Key"
+config AES_KEY
+	string "16 Bytes Key"
+	default "abcdefghijklmnop"
+	help
+	16 bytes or 128 bits of AES key
+endmenu
