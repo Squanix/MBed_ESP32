@@ -22,7 +22,8 @@
 /media/squanixmachine/SqxOntheGo/RegularPurpose/MBed_ESP32/AES_Encryptor_Decryptor_ESP32/build/esp-idf/driver/libdriver.a
 /media/squanixmachine/SqxOntheGo/RegularPurpose/MBed_ESP32/AES_Encryptor_Decryptor_ESP32/build/esp-idf/pthread/libpthread.a
 /media/squanixmachine/SqxOntheGo/RegularPurpose/MBed_ESP32/AES_Encryptor_Decryptor_ESP32/build/esp-idf/espcoredump/libespcoredump.a
-/media/squanixmachine/SqxOntheGo/RegularPurpose/MBed_ESP32/AES_Encryptor_Decryptor_ESP32/build/esp-idf/esp32s2/libesp32s2.a
+/media/squanixmachine/SqxOntheGo/RegularPurpose/MBed_ESP32/AES_Encryptor_Decryptor_ESP32/build/esp-idf/perfmon/libperfmon.a
+/media/squanixmachine/SqxOntheGo/RegularPurpose/MBed_ESP32/AES_Encryptor_Decryptor_ESP32/build/esp-idf/esp32/libesp32.a
 /media/squanixmachine/SqxOntheGo/RegularPurpose/MBed_ESP32/AES_Encryptor_Decryptor_ESP32/build/esp-idf/esp_common/libesp_common.a
 /media/squanixmachine/SqxOntheGo/RegularPurpose/MBed_ESP32/AES_Encryptor_Decryptor_ESP32/build/esp-idf/esp_timer/libesp_timer.a
 /media/squanixmachine/SqxOntheGo/RegularPurpose/MBed_ESP32/AES_Encryptor_Decryptor_ESP32/build/esp-idf/freertos/libfreertos.a
@@ -58,7 +59,6 @@
 /media/squanixmachine/SqxOntheGo/RegularPurpose/MBed_ESP32/AES_Encryptor_Decryptor_ESP32/build/esp-idf/libsodium/liblibsodium.a
 /media/squanixmachine/SqxOntheGo/RegularPurpose/MBed_ESP32/AES_Encryptor_Decryptor_ESP32/build/esp-idf/mqtt/libmqtt.a
 /media/squanixmachine/SqxOntheGo/RegularPurpose/MBed_ESP32/AES_Encryptor_Decryptor_ESP32/build/esp-idf/openssl/libopenssl.a
-/media/squanixmachine/SqxOntheGo/RegularPurpose/MBed_ESP32/AES_Encryptor_Decryptor_ESP32/build/esp-idf/perfmon/libperfmon.a
 /media/squanixmachine/SqxOntheGo/RegularPurpose/MBed_ESP32/AES_Encryptor_Decryptor_ESP32/build/esp-idf/spiffs/libspiffs.a
 /media/squanixmachine/SqxOntheGo/RegularPurpose/MBed_ESP32/AES_Encryptor_Decryptor_ESP32/build/esp-idf/ulp/libulp.a
 /media/squanixmachine/SqxOntheGo/RegularPurpose/MBed_ESP32/AES_Encryptor_Decryptor_ESP32/build/esp-idf/unity/libunity.a

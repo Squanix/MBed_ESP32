@@ -4,7 +4,7 @@ source "/media/squanixmachine/SqxOntheGo/Apps/ESPIDF/esp-idf-v4.2/components/coa
 source "/media/squanixmachine/SqxOntheGo/Apps/ESPIDF/esp-idf-v4.2/components/driver/Kconfig"
 source "/media/squanixmachine/SqxOntheGo/Apps/ESPIDF/esp-idf-v4.2/components/efuse/Kconfig"
 source "/media/squanixmachine/SqxOntheGo/Apps/ESPIDF/esp-idf-v4.2/components/esp-tls/Kconfig"
-source "/media/squanixmachine/SqxOntheGo/Apps/ESPIDF/esp-idf-v4.2/components/esp32s2/Kconfig"
+source "/media/squanixmachine/SqxOntheGo/Apps/ESPIDF/esp-idf-v4.2/components/esp32/Kconfig"
 source "/media/squanixmachine/SqxOntheGo/Apps/ESPIDF/esp-idf-v4.2/components/esp_adc_cal/Kconfig"
 source "/media/squanixmachine/SqxOntheGo/Apps/ESPIDF/esp-idf-v4.2/components/esp_common/Kconfig"
 source "/media/squanixmachine/SqxOntheGo/Apps/ESPIDF/esp-idf-v4.2/components/esp_eth/Kconfig"

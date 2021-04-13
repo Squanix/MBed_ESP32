@@ -2,3 +2,4 @@ source "/media/squanixmachine/SqxOntheGo/Apps/ESPIDF/esp-idf-v4.2/components/app
 source "/media/squanixmachine/SqxOntheGo/Apps/ESPIDF/esp-idf-v4.2/components/bootloader/Kconfig.projbuild"
 source "/media/squanixmachine/SqxOntheGo/Apps/ESPIDF/esp-idf-v4.2/components/esptool_py/Kconfig.projbuild"
 source "/media/squanixmachine/SqxOntheGo/Apps/ESPIDF/esp-idf-v4.2/components/partition_table/Kconfig.projbuild"
+source "/media/squanixmachine/SqxOntheGo/RegularPurpose/MBed_ESP32/AES_Encryptor_Decryptor_ESP32/main/Kconfig.projbuild"
