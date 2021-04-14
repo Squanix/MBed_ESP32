@@ -954,3 +954,15 @@
 23	40	1618317673761533118	bootloader/bootloader.bin	7c7a4cd00d54015f
 23	40	1618317673761533118	bootloader/bootloader.map	7c7a4cd00d54015f
 40	4264	0	CMakeFiles/flash	ca46cf3c6324e2e0
+0	3039	1618320511468617479	build.ninja	4d9ec29152006488
+14	22	1618317673761533118	bootloader-prefix/src/bootloader-stamp/bootloader-build	7c7a4cd00d54015f
+14	22	1618317673761533118	bootloader/bootloader.elf	7c7a4cd00d54015f
+14	22	1618317673761533118	bootloader/bootloader.bin	7c7a4cd00d54015f
+14	22	1618317673761533118	bootloader/bootloader.map	7c7a4cd00d54015f
+14	56	1618320511612617760	esp-idf/app_update/CMakeFiles/__idf_app_update.dir/esp_app_desc.c.obj	d2e4a023e824af56
+57	70	1618320511628617792	esp-idf/app_update/libapp_update.a	b04595e786366631
+71	150	1618320511708617948	esp-idf/main/CMakeFiles/__idf_main.dir/main.c.obj	db8645acef6a52f0
+150	153	1618320511712617956	esp-idf/main/libmain.a	bbd440ad4231a553
+153	1397	1618320512940620383	esp-idf/esp32/ld/esp32.project.ld	11ef628f6f927f80
+1398	1783	1618320513336621173	AES_Encryptor_Decryptor_ESP32.elf	35f7ea391254c1d4
+1783	1880	1618320513436621373	.bin_timestamp	7ab784e79d4cbd98
